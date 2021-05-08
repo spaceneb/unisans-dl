@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 700;
+    font-style: normal;
+    src: url(Heavy.eot), url(Heavy.woff2), url(Heavy.woff), url(Heavy.otf), url(Heavy.ttf)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 700;
+    font-style: italic;
+    src: url(HeavyItalic.woff2), url(HeavyItalic.otf), url(HeavyItalic.woff), url(HeavyItalic.eot), url(HeavyItalic.ttf)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 600;
+    font-style: normal;
+    src: url(Bold.ttf), url(Bold.otf), url(Bold.woff2), url(Bold.eot), url(Bold.woff);
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 600;
+    font-style: italic;
+    src: url(BoldItalic.woff2), url(BoldItalic.ttf), url(BoldItalic.otf), url(BoldItalic.woff), url(BoldItalic.eot)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 500;
+    font-style: normal;
+    src: url(SemiBold.woff), url(SemiBold.woff2), url(SemiBold.ttf), url(SemiBold.eot), url(SemiBold.otf)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 500;
+    font-style: italic;
+    src: url(SemiBoldItalic.ttf), url(SemiBoldItalic.eot), url(SemiBoldItalic.otf), url(SemiBoldItalic.woff2), url(SemiBoldItalic.woff)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 400;
+    font-style: normal;
+    src: url(Regular.woff), url(Regular.woff2), url(Regular.ttf), url(Regular.otf), url(Regular.eot)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 400;
+    font-style: italic;
+    src: url(RegularItalic.woff2), url(RegularItalic.ttf), url(RegularItalic.eot), url(RegularItalic.otf), url(RegularItalic.woff)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 300;
+    font-style: normal;
+    src: url(Book.ttf), url(Book.woff), url(Book.otf), url(Book.eot), url(Book.woff2)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 300;
+    font-style: italic;
+    src: url(BookItalic.eot), url(BookItalic.otf), url(BookItalic.woff), url(BookItalic.woff2), url(BookItalic.ttf)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 200;
+    font-style: normal;
+    src: url(Light.woff), url(Light.ttf), url(Light.otf), url(Light.eot), url(Light.woff2)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 200;
+    font-style: italic;
+    src: url(LightItalic.otf), url(LightItalic.woff2), url(LightItalic.eot), url(LightItalic.woff), url(LightItalic.ttf)
+
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 100;
+    font-style: normal;
+    src: url(Thin.ttf), url(Thin.woff), url(Thin.eot), url(Thin.woff2), url(Thin.otf)
+}
+@font-face {
+    font-family: 'Uni Sans';
+    font-weight: 100;
+    font-style: italic;
+    src: url(ThinItalic.woff2), url(ThinItalic.woff), url(ThinItalic.ttf), url(ThinItalic.otf), url(ThinItalic.eot)
+}
